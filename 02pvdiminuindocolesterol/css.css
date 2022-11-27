@@ -1,0 +1,10 @@
+.text{
+    display: flex;
+    align-items: center;
+}
+
+
+.imagem{
+    height: 350px;
+    width: 700px;
+}
