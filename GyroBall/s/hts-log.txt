@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 29 Dec 2022 19:56:20 at https://nvki-store-23653382.hubspotpagebuilder.com/gyro-ball +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://nvki-store-23653382.hubspotpagebuilder.com/gyro-ball
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://nvki-store-23653382.hubspotpagebuilder.com/gyro-ball -O1 "C:\Users\iury-\Desktop\GyroBall\s" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://nvki-store-23653382.hubspotpagebuilder.com/gyro-ball )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:56:33	Warning: 	Moved Permanently for nvki-store-23653382.hubspotpagebuilder.com/robots.txt
+19:56:33	Warning: 	Redirected link is identical because of 'URL Hack' option: nvki-store-23653382.hubspotpagebuilder.com/robots.txt and https://nvki-store-23653382.hubspotpagebuilder.com/robots.txt
+19:56:33	Warning: 	Warning moved treated for nvki-store-23653382.hubspotpagebuilder.com/robots.txt (real one is https://nvki-store-23653382.hubspotpagebuilder.com/robots.txt)
+19:56:33	Warning: 	Moved Permanently for nvki-store-23653382.hubspotpagebuilder.com/
+19:56:33	Warning: 	Redirected link is identical because of 'URL Hack' option: nvki-store-23653382.hubspotpagebuilder.com/ and https://nvki-store-23653382.hubspotpagebuilder.com/
+19:56:33	Warning: 	File has moved from nvki-store-23653382.hubspotpagebuilder.com/ to https://nvki-store-23653382.hubspotpagebuilder.com/
+19:56:34	Error: 	"Not Found" (404) at link https://nvki-store-23653382.hubspotpagebuilder.com/www.hubspot.com (from https://nvki-store-23653382.hubspotpagebuilder.com/gyro-ball)
+19:56:34	Error: 	"Not Found" (404) at link https://nvki-store-23653382.hubspotpagebuilder.com/POST (from https://nvki-store-23653382.hubspotpagebuilder.com/gyro-ball)
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 seconds : 30 links scanned, 25 files written (1024980 bytes overall) [928278 bytes received at 66305 bytes/sec], 159579 bytes transferred using HTTP compression in 10 files, ratio 17%, 2.5 requests per connection
+(2 errors, 6 warnings, 0 messages)
